@@ -13,8 +13,6 @@
 		<td>{{ $product['price'] }}</td>
 	</tr>
 	@endforeach
-	
-</table>	
-	
+	</table>	
 </div>
 @endsection
